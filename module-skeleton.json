@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-liberu-control-panel-nextjs",
+  "capabilityKey": "liberusoftware/billing-liberu-control-panel",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-billing-liberu-control-panel-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-liberu-control-panel.md",
+  "presentationPlan": "projects/billing/nextjs/module-billing-liberu-control-panel.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
